@@ -4,6 +4,8 @@
 # The URL from which the site will be served
 # baseurl = "https://hugcis.github.io/hugo-astatine-theme/"
 baseurl = "https://lilistouch.github.io/linanicolaieff/"
+# baseurl = "http://localhost:1313/linanicolaieff/"
+
 # Language used
 languageCode = "en-us"
 # Website title
