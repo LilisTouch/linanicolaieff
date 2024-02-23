@@ -1,5 +1,5 @@
 #baseurl = 'http://localhost:1313/'
-baseurl = "https://lilistouch.github.io/linanicolaieff/"
+baseurl = "https://lilistouch.github.io/"
 languageCode = 'en'
 title = 'Red Rose'
 theme = "red-rose"
