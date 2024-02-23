@@ -1,7 +1,7 @@
 baseurl = 'http://localhost:1313/'
 languageCode = 'en'
 title = 'Red Rose'
-theme = "hugo-theme-red-rose"
+theme = "red-rose"
 
 PygmentsCodeFences = true
 PygmentsStyle = "solarized-dark256"
